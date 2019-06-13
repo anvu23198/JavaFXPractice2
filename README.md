@@ -2,5 +2,5 @@
 
 Create a color game using JavaFx
 
-#implements
+# Implements
 Timeline, Using enum for colors and on click to determine if your choice is correct
